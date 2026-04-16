@@ -1,0 +1,32 @@
+{
+  "restaurants-peru": {
+    "config": {
+      "type": "service_account",
+      "project_id": "restaurants-peru",
+      "private_key_id": "17cf24b4e233820d74e2090ba847dd4f32126457",
+      "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDOXDER0CDqI8mj\nkk2G0zjtHrrWvL9zUCXyU0tsBoCbBRDJloih0en/GGua1+QHx6a0QUTjgKuSCURF\neNs9kOUQWGLPjXXw5jcehtox5Hrjw/bp3K+PCriWEsVFhTbyuYWPHPBtA+5AtTCf\nm1KmAwtV0oTOEWrPhwi5dZSRMzfsB+UvhioBMpfUPbQedXXtOeJki8wbnkYx1yvv\nNRzeGc7XAmWxGyryVWteDcSXhsyMarZZYgvnBgp2MM3w60Ct3WKBWyMxFRcimIr+\nYKKN9o0XKkjgLf5kF/E4ybUuzp7qlKN/CekIb8Yg8a4vfVGMeFoXddPe+fWFnq1w\nTk71SiEpAgMBAAECggEAEV1XILdZibJMvaeqP+nmvKdNFBRKbO7l3owNSPAMIt9M\ngBYbdbh2/wkERwGbNd9iQwFKBXXWmiGO/eSTWE0oxVUWrX3rGoQYx8gTtMaT47Yi\nASBZookFqtU2BelVjBu55ibKgXXm9sl4Z7nXfNI9QjHGjJuRGBj2DjsbbxN3BXSm\nzygcmKGxf5l/d9J3NmcnqPSx45ZPPl25UOUJz8lTVCFhd2rLDG7jviNO4I3Z8I8P\nEYwRQSVMdx+vXf1Vq1WdHFc8K0HOadBu6NTDSe7WMPjCVsPM6ctUT/Lwn1xdeVzp\n8kJN8cVKG2AEMcX6EDsNobGvGF2ehlyaaIbuHL5YoQKBgQD5r6iRvG5KDJg2jEom\nbc9YTee52UQuwd5wz0UuS+IWjKQGX6h4zoy7P361kuuAR9sUo65NXEWLhYEpspdL\njA8srTAHpQNdqH2menIYfkKDkwIjRuAQN480Nh7q2OLY+R+k9VtaBBkSpK9zmQAC\nNM8QjivHXhvhWxd7VpXKCFux2QKBgQDTlA/5F2lk2V4pXC9HJeZFhQB6vVu2aNAL\nz3wgEGUjMDxLe4ovu5hPJQs1+LlPMk5bnu0kNKN6RFFuP27FFxGygYjdqxpQ63Xm\n86i3c7MmP4Od1vHqbsP9Xywjmcz1Fa6igA+jfyhd+GflcDgUpSTgur9sI86FbyTa\nGn6FeXkH0QKBgG9emqHmmosM8xfhm3FoqYOJvEJ5VqBEeSN4UDNGRaIpOUBeipbY\nCo261JnI3qJpap7aI3T+I0cIVYRz1GguINacqT+/qrCr5t/K3flu19w4RkvV4Tta\njNWNDl1SQFznQeYiSozsJwLZ0iiNpiNVysZno79ZirYKG384L7fd4oiBAoGAdQqt\nI2B+HxnX6w1h4fvnPIHs1/k0aN3maQIoahxntmWSlTcMJIekI/QcFYk4CcWMb0al\nbKfp31M3sMNKZaDzW0opCmcCsczvdglIReOtMPVlu8USIluP8/PYGQGVzeZmquIo\nxIstK36lCtlfTJxmoCLujcXpEwt+2WBaqT+fYmECgYAZXm9ACPRDXLN/LFEG7xXs\ncIZrEDvIvD7z34MQPRKBwD/dHX9x8+tmJPi5+fiDKcx2FG+/SVAr1qVFd2TDIUOi\nPqYKgnxz4xAGEnUL7/8mkt6xgeRivEM520t1U/tQ3L52UbObK4PEk5WtESWgB/Ay\nZ17bwvaj2UykRP/LeWRjkg==\n-----END PRIVATE KEY-----\n",
+      "client_email": "firebase-adminsdk-fbsvc@restaurants-peru.iam.gserviceaccount.com",
+      "client_id": "113821185559824018314",
+      "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+      "token_uri": "https://oauth2.googleapis.com/token",
+      "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+      "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40restaurants-peru.iam.gserviceaccount.com",
+      "universe_domain": "googleapis.com"
+    }
+  },
+  "elprimo105-pucallpa": {
+    "config": {
+      "type": "service_account",
+      "project_id": "elprimo105-pucallpa",
+      "private_key_id": "415f3a9caff970ba3e9eb3357784ec978a680ed4",
+      "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6agU4JkEKDMTn\nQ3wP8ts60b/Q9doO+iAPyPWcb46u8Kq8SQIgGQblva1zMSbwSuinjwICu5hDDiyi\n00szV94PMHeIKwSyto6q1b0RRR7ZjX6ggN8J4Uo99LmBZxJ9mwhP4NvYF7IP0bF6\nMz9ldxLmPzgrJ9vC12V7MRz4EMfMtZ9IHggq01RXpZcInjzveeanga9oT/TKtaa2\nCcaGMV1ojynmVimvhXaDS/xtdtX1NSIaZsuH+KsLHb7kbMmwS8v7fTQUzE9eMEOs\nfcGfjcEh89tYkvGz1NJwvJv7iWDdI7pxiof2p+ju+HwzIKD6nCYVG3PWpAo0Dz8B\nLWUWR2EhAgMBAAECggEALkgKObGNrkATVtNzZsZF1amjtO6FD/jbou+iww8TXq2T\nxiFeLLfp9XoNKS9H2prOfmNL/X+zwtovDNHmtr2W/TBsTNtZVEFs1E8ynKoLibnO\neWzlcx+C/jTXJaCAf7zQ6HwMOO9RHwpRxOQaVkek4pNJj7Vao1o08Mv1xETuRg1Y\nnbkCuVDzP1tK0ee7xq8E1Vh9owvyBUlNU3dNdFkMdPsSD9T39WUUsIhX1+DTQQ93\nvFKTEps7XRTWjpeIk1HeI8opG/XICdeQWZmEoZNZ6MAnVgVb+CrVZyj97KgR1Su2\nA0lC+SFnK9RTlf5wP4jYMihoMWkN63es2VdJMTbfLQKBgQDwrYFZaT3ypbRFELfL\nz2PX3fMvb7bspz8w1wEFj5timzpsjCIVmaev8XqvXedHn3fgnukJt85XuEdrpK5w\ne7aMkKBQF6KHOcU0mXd6reEb+We8kUAb0Q9gi5ie6Ty0PM08I7bHvhUcdMg6TfQz\nsSwMd8ZdjEaDddAF/VjMn1z6wwKBgQDGSCSQ44qkeqGAVPiOYhNkApHd/HF+DryT\nN8btDdUC33alC61O+GGO6RdDFQ6WF+Usx8c17HML11+G8Ut5tpD6Cbwyq5o2qQ7X\nfDiKxQ3u/oGj7bfYRN9xhH/Gy+Bba//osa72OlxzT9N4aCOQrAXK/oJAodsC+4UG\n/3RUXKvOSwKBgDgQEotjSnzVQJK9/DJLkvRbzSQFn9SseLnFu4UyGH31rrxOQDpL\n2pXPaEalVxSF/wShv6L13+jrEifu6ntlNfa0UcOWXdOmD1vbS8uV6VP82r9ADnDs\nV+qjWd/acLuDVkNmBlOs4XoJcgKy2emYoawd0mVEIcDJlrVueFrh3GTFAoGAAqjP\nDL5wipo2dlEtcENyfSHnsPGE2Cr8boEOAvnvhHVY0wfgEDIWpOMNc9HhezPg2APp\n8Rg1xs/hsR6lY4GGWkQtKQTSMa98ynkZDQttj2oMdRVoJNdvo8ciK5lqbe955DYV\n4amQud81N+U1rOgRv9JADvvcwyJ6e0iL1+HSUBcCgYEA2JTCtoPIPchXHPPEOYyP\n57/q/dibdgAj0k0bhlvz5DepW5jL+iulqrMZpk5g8wAtp3X5bsplaUG2EnROPoQ6\nuygeDyC4ICJ7KCgsrfJ4NrhdliWUy/93L7Rybfc0rGo5D6hzXC30E413gQ6bJx68\nSSMvhc0lmRu3P2C+vYDnP1I=\n-----END PRIVATE KEY-----\n",
+      "client_email": "firebase-adminsdk-fbsvc@elprimo105-pucallpa.iam.gserviceaccount.com",
+      "client_id": "108138762129156693985",
+      "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+      "token_uri": "https://oauth2.googleapis.com/token",
+      "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+      "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40elprimo105-pucallpa.iam.gserviceaccount.com",
+      "universe_domain": "googleapis.com"
+    }
+  }
+}
